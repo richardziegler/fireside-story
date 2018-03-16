@@ -1,12 +1,9 @@
 body {
-  color: #EFEFEE;
-  background-color: #666;
-  font-size: 150%;
-  font-family: 'Satisfy', cursive;
-  margin: 5em 25%;
-}
-
-p {
-  font-family: fantasy;
-
+  color: white;
+  background-color: #333;
+  font-family: 'Lato', sans-serif;
+  font-size: 32px;
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
